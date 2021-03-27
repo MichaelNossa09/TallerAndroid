@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AdivinarNumeroAleatorio</string>
+    <string name="BtnJugar">JUGAR</string>
+    <string name="tv1">NUMERO DE INTENTOS: </string>
+</resources>
